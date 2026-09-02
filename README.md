@@ -28,7 +28,3 @@ This is an illustrative prototype using synthetic data. It is not a medical devi
 
 - `index.html` - complete interactive prototype.
 - `README.md` - installation, scope and safety notes.
-
-## Suggested GitHub submission
-
-Create a public repository named `patienttriage-ai`, upload these two files, and paste the public repository URL in the Round 2 form.
